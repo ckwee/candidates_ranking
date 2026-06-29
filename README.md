@@ -110,7 +110,7 @@ Notes
     - Candidate scores should support, not replace, human hiring decisions.
     - For production, add authentication, persistent storage, audit logs, stricter CORS, and stronger file security checks.
 
-MIT License
+# MIT License
 
   Copyright (c) 2026 CK
   
